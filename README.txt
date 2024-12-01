@@ -1,3 +1,5 @@
+Deployment of interative co-authorship network from graduate course from UFRN. Made with Gephi using SigmaJs plug-in.
+
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
